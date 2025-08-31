@@ -1,0 +1,4 @@
+-- // TACITCAL SHOTGUN AUTOBUY \\ (VOIDFALLS)
+while wait() do
+    fireclickdetector(workspace.MAP.BuyPads['[Tactical Shotgun]'].ClickDetector)
+end
